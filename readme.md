@@ -1,14 +1,14 @@
-## Data Visualizations
-1. # Listings by Type (# of Listings x Property Type)
-2. # Property Listings over Time (# of Listings x Month)
+# Data Visualizations
+1. Number of Listings by Type (# of Listings x Property Type)
+2. Number of Property Listings over Time (# of Listings x Month)
 3. Avg Rental Price by Day of Week OR over time (Avg. Rental Price x Month or Week)
-4. # Reviews by Prop Type (# of Reviews x Property Type)
+4. Number of Reviews by Prop Type (# of Reviews x Property Type)
 5. Avg Days Rented per Month (Avg Days by Property Type x Month)
-6. # of Avail listings rented over time (# of Listings/# of Rentals x Month) [Occupancy Rate]
+6. Number of Available listings rented over time (# of Listings/# of Rentals x Month) [Occupancy Rate]
 7. Map of Listings (Longitude x Latitude)
 8. Popularity by Neighborhood (# of Listings by Property Type x Borough or Zip Code)
 
-## Questions
+# Questions
 What has been the trends of popularity can we observe for AirBnBs in Jersey City over last few years?
 - Which property type has the most listings overall? (Visualization 1 & 2)
 - Which neighborhood is the most popular in terms of the most listings? (Visualization 7 & 8)

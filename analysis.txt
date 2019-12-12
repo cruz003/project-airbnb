@@ -1,0 +1,22 @@
+# Questions
+What has been the trends of popularity can we observe for AirBnBs in Jersey City over last few years?
+
+What AirBnB room types are available to rent in Jersey City? (Visualization 1)
+
+	Most of the listings provided by our data set are offering the entire room/living space for rent. A substantially smaller set of listings offer a private room, and shared livings spaces are minimal.
+
+- Which property type has the most listings overall? (Visualization 1)
+
+
+	Apartments make up the vast majority of AirBnB listings in Jersey City. Housing makes up the next largest group of listings, followed by other property types with very few entries that we combined into an "other" category to help remove outliers.
+
+- What are the most popular and most expensive neighborhoods? (Visualization 3, 6 & 7)
+	
+	The most popular neighborhood in Jersey City by far is Downtown, it contains a vast majority of AirBnb listings in Jersey City. Downtown is also the most expensive neighborhood, specifically in The Waterfront.
+
+- What are the most popular listing types by neighborhood? (Visualization 4, 5 & 8)
+
+	Across all of Downtown, apartments are the most popular listing type by far. Apartments make up more than half of all listings in Downtown. In the other neighborhoods, there are about as many private rooms as apartments for rent. 
+
+- Which days/month/season is the most popular? (Visualization 2 & 9)
+	To our group's surprise, the day of the week makes almost no difference in the price of a listing. On the other hand, the time of year can make a significant difference in listing prices. There is a spike in listing price around December, with another spike occurring towards the beginning of the summer.
